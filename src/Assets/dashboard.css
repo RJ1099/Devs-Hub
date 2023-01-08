@@ -1,0 +1,44 @@
+li{
+    list-style-type: none;
+}
+
+.profile{
+    margin-left: 200px;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    bottom: 160px;
+}
+
+.dashboard-btn{
+    position: relative;
+    left: 45px;
+}
+
+.list{
+    width: 200px;
+    height: 200px;
+    margin-left: 550px;
+    position: relative;
+    bottom: 380px;
+}
+
+.dashboard-col-props{
+    height: 260px;
+}
+
+.dashboard-img{
+    width: 170px;
+    height: 180px;
+    position: relative;
+    right: 300px;
+}
+
+.body-text{
+    color:brown;
+    font-size: larger;
+    position: relative;
+    left: -240px;
+    font-weight: 600;
+    margin-top: 70px; ;
+}

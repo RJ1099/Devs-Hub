@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.body{
+    background-color: #f2f2f2;
+    height: auto;
+    width: auto;
+    overflow: hidden;
+}
+
+.navbar{
+    max-height: 100px;
+}
+
+.navbar-brand{
+    margin-left: 30px;
+}
+
+.fa-brands{
+    color: green;
+}
+
+.btn-secondary{
+    color: white;
+}
+
+.navbar-header{
+    font-size: 25px;
+    color: darkgoldenrod;
+    margin-left: 30px;
+}
+
+img{
+    width: 77.5rem;
+    height: 30rem;
+}
+
+.content-body{
+    width: 350px;
+    height: 210px;
+    position: relative;
+    bottom: 450px;
+    left: 50px;
+}
+
+.content-body-header{
+    color: #ccccff;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: Georgia;
+}
+
+.content-body-list{
+    list-style-type: square;
+    color: white;
+}
+
+.logos{
+    width: auto;
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border: 2px solid red;
+    position: relative;
+    bottom: 150px;
+}
+
+.column-1-text{
+    width: 300px;
+    height: 200px;
+    margin-left: 10px;
+}
+
+.logos{
+    width: auto;
+    height: 50px;
+    border: 2px solid red;
+}
+
+.logos-flex{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.text-muted{
+    position: relative;
+    top: 10px;
+}
+
+.footer{
+    width: auto;
+    height: 250px;
+    background-color:#cccccc;
+}
+
+.home-title{
+    width: 500px;
+    height: 100px;
+    opacity: 0.9;
+    position: relative;
+    bottom: 450px;
+    left: 50px;
+    color: rgb(155, 12, 88);
+}
+
+.home-list{
+    list-style-type: circle;
+    list-style-position: inline;
+    width: 400px;
+    height: 100px;
+    color: white;
+    font-weight: 700;
+    font-size: large;
+    position: relative;
+    bottom: 330px;
+    left: -450px;
+    
+}
+
+
+
+
+
+
+
+

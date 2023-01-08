@@ -1,0 +1,25 @@
+.add-review-box{
+    width: 600px;
+    height: 120px;
+    border: 2px solid black;
+    margin-top: 25px;
+}
+
+.input-field-text{
+    width: 550px;
+    margin-top: 30px;
+    margin-left: 20px;
+    border: 2px solid black;
+    background-color: #e5e5ff;
+}
+
+.input-btn{
+    margin-left: 20px;
+    margin-top: 10px;
+    background-color: #6666ff;
+    width: 100px;
+}
+
+.profiles-col-2{
+    height: 210px;
+}
